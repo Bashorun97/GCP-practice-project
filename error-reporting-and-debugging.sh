@@ -1,4 +1,4 @@
-#!/bash/bin
+#!/bin/bash
 mkdir appengine-hello
 cd appengine-hello
 gsutil cp gs://cloud-training/archinfra/gae-hello/* .
